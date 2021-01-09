@@ -1,8 +1,10 @@
 # Verctor_Reversal
-R function to reverse the order of a vector
 
 
-This code shoulf do the work :smile:
+## R function to reverse the order of a vector
+
+
+### This code should do the work :smile:
 
 
 vector_reversal <- function(Variable_to_be_reversed){
