@@ -6,7 +6,7 @@
 
 ### This code should do the work :smile:
 
-
+```
 vector_reversal <- function(Variable_to_be_reversed){
 
 
@@ -42,3 +42,4 @@ print("Here is your reversed vector:")
 print(paste(reversed_vector))  
 
 }
+```
